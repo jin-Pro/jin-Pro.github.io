@@ -1,0 +1,15 @@
+# main links
+main:
+  - title: "김영진 소개"
+    url: /hello/
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "편동혁 소개"
+    url: /hello2/ #https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "김기창 소개"
+    url: /hello3/ #https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "김수민 소개"
+    url: /hello4/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
