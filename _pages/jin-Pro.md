@@ -1,5 +1,5 @@
 ---
-permalink: /hello/
+permalink: /jin-Pro/
 ---
 
 ## **🎓 Education**
