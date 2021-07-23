@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Blog Link](https://hyukp.github.io/Group1-Coding1/).
+[Blog Link](https://jin-Pro.github.io/).
 
 You can use the [editor on GitHub](https://github.com/HyukP/Group1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
